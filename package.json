@@ -1,7 +1,7 @@
 {
   "name": "@diplodoc/documentation-template",
   "version": "0.0.0",
-  "description": "template for your diplodoc documentation with hot reload development server",
+  "description": "-",
   "homepage": "https://github.com/diplodoc-platform/documentation-template",
   "repository": {
     "type": "git",
@@ -44,6 +44,5 @@
     "parse5": "^7.1.2",
     "parse5-utils": "^2.0.0",
     "serve-static": "^1.15.0"
-  },
-  "devDependencies": {}
+  }
 }
